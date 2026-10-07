@@ -1,51 +1,44 @@
-# 👋 Hey, I'm Thiru Sakthivel
+<div align="center">
 
-### 💻 Developer | 🤖 AI/ML Enthusiast | 🚀 Builder
+# ⚡ TK1517
 
-I love turning ideas into real-world applications — from AI-powered systems and data-driven solutions to modern web applications.
+### `BUILDING IDEAS INTO SYSTEMS`
 
-```text
-⚡ Building      → AI + Full Stack Projects
-🧠 Learning     → Machine Learning & System Design
-🚀 Exploring    → Next.js • Python • Cloud • AI
-🏆 Participating → Hackathons & Technical Projects
-```
+<p>
+  <b>AI / ML</b> • <b>FULL STACK</b> • <b>SYSTEMS</b> • <b>HACKATHONS</b>
+</p>
 
-## 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+%22what+if%3F%22+into+%22let's+build+it.%22;Building+AI-powered+applications;Breaking+things+to+understand+them;Learning+something+new+every+day;Turning+ideas+into+working+systems" alt="Typing SVG" />
 
-### 💻 Languages
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-TK1517-181717?style=for-the-badge&logo=github)](https://github.com/TK1517)
+[![Profile Views](https://komarev.com/ghpvc/?username=TK1517&style=for-the-badge&color=58A6FF)](https://github.com/TK1517)
 
-### 🌐 Web Development
+</div>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+---
 
-### 🤖 AI / Data
+## 🖥️ `~/about`
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-000000?style=for-the-badge&logo=python&logoColor=white)
+```bash
+$ whoami
 
-### 🗄️ Database & Cloud
+TK1517 — developer, student & builder
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+$ mission
 
-### 🔧 Tools
+Turn interesting ideas into things that actually work.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+$ currently
+
+→ Building AI-powered applications
+→ Exploring full-stack architecture
+→ Experimenting with ML & data
+→ Building hackathon projects
+→ Learning by breaking things
+
+$ philosophy
+
+"Don't just learn the technology.
+Build something with it."
