@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey, I'm Thiru Sakthivel
 
-<!--
-**TK1517/TK1517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Developer | 🤖 AI/ML Enthusiast | 🚀 Builder
 
-Here are some ideas to get you started:
+I love turning ideas into real-world applications —
+from AI-powered systems and data-driven solutions to
+modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+⚡ Building      → AI + Full Stack Projects
+🧠 Learning     → Machine Learning & System Design
+🚀 Exploring    → Next.js • Python • Cloud • AI
+🏆 Participating → Hackathons & Technical Projects
